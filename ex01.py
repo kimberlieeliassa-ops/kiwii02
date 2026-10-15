@@ -3,4 +3,4 @@
 temperatura = float(input("digite a temperatura em Celsius: ")) 
 
 F = temperatura * 1.8 + 32
-print(f"A temperatura em fahrenheit é (F)", )
+print(f"A temperatura em fahrenheit é (F)", ) 
